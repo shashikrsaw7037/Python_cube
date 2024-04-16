@@ -1,0 +1,10 @@
+g="Title"
+print(g.isalnum())
+print(g.isalpha())
+print(g.isdecimal())
+print(g.isdigit())
+print(g.isnumeric())
+print(g.islower())
+print(g.isupper())
+print(g.isspace())
+print(g.istitle())
